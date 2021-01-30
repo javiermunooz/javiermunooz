@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/javiermunoz97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="javiermunoz97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-javier-muñoz-navarro-39b649b2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-javier-muñoz-navarro-39b649b2" height="30" width="40" /></a>
-<a href="https://kaggle.com/@javiermunooz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="@javiermunooz" height="30" width="40" /></a>
+<a href="https://kaggle.com/javiermunooz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="@javiermunooz" height="30" width="40" /></a>
 <a href="https://medium.com/@fjavier97vall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fjavier97vall" height="30" width="40" /></a>
 </p>
 
